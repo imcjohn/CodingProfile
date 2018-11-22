@@ -1,0 +1,5 @@
+A few python snippets that I wrote during my Freshman fall at MIT for 6.02 (Introduction to EECS II: Digital Communication Systems)
+
+block.py - A linear block encoder and Syndrome decoder
+lzw.py - An implementation of the lzw compression algorithm, and a decompression function for lzw-compressed files
+viterbi.py - A convolutional encoder, and Viterbi decoder

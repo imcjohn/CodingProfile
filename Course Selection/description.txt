@@ -1,0 +1,7 @@
+Junior English block/class sort code I wrote for my senior year of high school
+
+To test it, run the code in Junior_English_Sorter.py and select sample.csv as the sample CSV data
+
+The output will be in classdata_out.txt
+
+NOTE: I did not write all of the code in the ClassSorterMethodized.py file, as some of the Student class was based off a previous sorting algorithm
