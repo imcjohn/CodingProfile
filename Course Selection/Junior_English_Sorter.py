@@ -2,8 +2,6 @@ import ClassSorterMethodized
 from displayFunctions import printProgressBar
 import easygui # don't do this for macs
 CLASSDATA_OUT='classdata_out.txt'
-BESTEST_WAE=None
-BESTEST_SCORE=10000 #all caps to remind myself how awful this solution is --- never forget (1/18/2018)
 TOTAL_COUNT=0
 def update_prog():
 	global TOTAL_COUNT
