@@ -4,3 +4,6 @@
 
 ## Python Snippets
 #### A few short python programs I wrote for EECS Classes at MIT, detailing various compression and channel encoding algorithms.
+
+##Jane Street Electronic Trading Competition 
+#### Trading bot created at the Jane Street ETC by me and my two teammates, written in C++. More details in the folder
