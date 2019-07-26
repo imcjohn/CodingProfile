@@ -1,5 +1,5 @@
-#Jane Street Electronic Trading Competition Code
-## Trading bot created at the Jane Street ETC by me and my two teammates, written in C++.
+# Jane Street Electronic Trading Competition Code
+### Trading bot created at the Jane Street ETC by me and my two teammates, written in C++.
 
 ## Descriptions by file
 * JsonResponse.cpp/h - Class to handle responses from server and do appropriate trading responses. JSON parsing and framework written by me, but most of the ideas for the algorithms came from my teammates and the writeup from Jane Street
