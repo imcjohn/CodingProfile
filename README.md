@@ -5,5 +5,8 @@ My senior year of High School, I wrote a sorter program to sort the various stud
 ## Python Snippets
 A few short python programs I wrote for EECS Classes at MIT, detailing various compression and channel encoding algorithms.
 
-## Jane Street Electronic Trading Competition 
+## Jane Street Electronic Trading Competition (Jane Street ETC)
 Trading bot created at the Jane Street ETC by me and my two teammates, written in C++. More details in the folder
+
+## TinyBasic in C++ (Tiny Basic CPP)
+Tiny basic interpreter written by me in C++. Still adding more features, but fully implements the language spec as of now.
