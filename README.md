@@ -1,4 +1,6 @@
 # CodingProfile
+I made this profile pretty early on in my college career, it has a few projects from back in the day. At this point, it's mostly for posterity that I keep it up, so if you'd like a more full overview of my current coding capabilities I'd strongly recommend taking a look at some of my newer projects too!
+
 ## Course Selection
 My senior year of High School, I wrote a sorter program to sort the various students into their respective English classes. The entire program is in this folder. The most interesting file to look at is probably Junior_English_Sorter.py. If you want to test it, just run this file on Python 3 (with TKinter installed), and select sample.csv as the data to use.
 
